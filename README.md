@@ -1,2 +1,2 @@
 # ramdan-countdown
-Demo Link: https://codesbyahmad.github.io/ramdan-countdown/
+Demo Link: https://codesbyahmad.github.io/ramadan-countdown/
